@@ -1,5 +1,8 @@
 # Hotel-Management-System 
 
+**ABSTRACT:**
+This project is to help the customer with their hotel reservations and helping the hotel with their regular tasks, which includes maintaining a database that stores customer information and services provided from all the different branches.
+
 **OBJECTIVE:**
 The main objective is to create a centralized system for a chain of hotels.
 Centralized System contains all the rates of each hotel room depending on whether it is peak season/offseason. 
